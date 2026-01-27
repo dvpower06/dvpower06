@@ -7,7 +7,7 @@ Currently Exploring<br>- Front‑end development and modern web practices<br>- B
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dvpower06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dvpower06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvpower06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
