@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBE634&width=435&lines=Computer+Science+Student;Learning+Frontend)](https://git.io/typing-svg) <!--Readme Typing SVG-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B8E630&width=435&lines=Making+apps+with+python;Learning+frontend;Computer+Science+Student" alt="Typing SVG" /></a> <!--Readme Typing SVG-->
 
 
 #  Tech Stack:
