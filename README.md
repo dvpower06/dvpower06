@@ -1,5 +1,7 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B8E630&width=435&lines=Making+apps+with+python;Learning+frontend;Computer+Science+Student" alt="Typing SVG" /></a> <!--Readme Typing SVG-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BDC81B&width=435&lines=Learning+web+dev;Making+apps+with+python;Eager+to+contribute+to+open+source+" alt="Typing SVG" /></a> <!--Readme Typing SVG-->
+
+Hi, my name is David Power. I am a student and hobbyist. As of right now I am interested in making apps with Python, making my own website from scratch and eager to solidify my Java skills. I am also interested in contribuing to open source projects in the future. 
 
 
 #  Tech Stack:
