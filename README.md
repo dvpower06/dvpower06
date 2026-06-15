@@ -2,7 +2,7 @@
 
 # Hi there, I'm David! 👋
 
-I am a Computer Science Student & Developer passionate about building efficient, minimalist software, automation, and exploring open-source ecosystems. 
+I am a Computer Science Student & Developer and I want to build great software. 
 
 ---
 
