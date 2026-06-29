@@ -2,8 +2,8 @@
 
 # Hi there, I'm David! 👋
 
-I am a Computer Science Student & Developer and I want to build great software. 
-
+I'm a Computer Science Student & Developer that loves building. 
+(I use Arch btw)
 ---
 
 ### 🛠️ Tech Stack & Tools
